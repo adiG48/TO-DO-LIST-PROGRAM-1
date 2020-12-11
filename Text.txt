@@ -1,0 +1,12 @@
+Task:
+ 1. Laundary
+ 2. House Cleaning
+ 3. Shopping:
+     a. Clothes
+     b. Utensils
+     c. Shoes
+     d. Fruits and Vegetables
+     e. Snacks
+ 4. Cooking
+ 6.adithyaa
+ 7. do
